@@ -1,5 +1,6 @@
 # P2_Probstat_D_5025201017
 Praktikum Modul 2 Probabilitas dan Statistik
+Oleh : Muhammad Rolanov Wowor
 
 ## Nomor 1
 a) Standar deviasi didapat senilai 6.35959468
